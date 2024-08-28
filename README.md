@@ -1,1 +1,2 @@
 # Connect-to-SQLite-using-sqlite3-library
+unwanted change on EXCEL file when I imported them as table on SQLite (Since SQLite can not import XLSX file, I changed the files to CSV and when I imported them into SQLite database, the column data type has changed incorrectly) ---> By creating a database using python library (sqlite3) I added those data set to the data base after converting them to dataframe.
